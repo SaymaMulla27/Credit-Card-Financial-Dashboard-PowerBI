@@ -8,6 +8,7 @@
 
 ## Tools Used
 - PostgreSQL
+- PgAdmin4
 - Power BI
 
 ## Key Insights
